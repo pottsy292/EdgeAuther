@@ -20,7 +20,7 @@ namespace EdgeAuther
         public static string Client_ID = "41f4a6491028e3c4";
         public static string UserAgent = "libcurl (nnHttp; 789f928b-138e-4b2f-afeb-1acae821d897; SDK 6.4.0.0; Add-on 6.4.0.0)";
         public static string Challenge = "key_generation=6";
-        public const string SysDigest = "gW93A#00060000#9k9lgdev3glK0ltQTdWmdK7jU1BL9oWNJRAFkQpHUYI=";
+        public const string SysDigest = "CusHY#00060200#-uAUBEUSc-Se5mvfhJsj3Krr9ayN7IyTX60_XcLsZkQ=";
 
         public static X509Certificate2 Cert = new X509Certificate2("nx_tls_client_cert.pfx", "switch");
 
